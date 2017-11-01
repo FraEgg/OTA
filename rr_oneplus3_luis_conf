@@ -7,7 +7,7 @@
 # * Chances are you only need to change the ota_url in this file 
 #
 ota_url=http://luis-builds.de/downloads/lineageos/rr/oneplus3/ota_luis.php
-release_type=Sultan-Luis
+release_type=LuisSultan
 device_name=ro.rr.device
  
 #
