@@ -32,8 +32,7 @@ device_name=ro.rr.device
 # Version format:
 #
 # uname -r will only be needed if using the app for kernels, not required here
-
-version_source=ro.rr.version
+version_source=ro.modversion
 version_delimiter=-
 version_position=3
 version_format=yyyyMMdd
