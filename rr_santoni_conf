@@ -7,7 +7,7 @@
 # * Chances are you only need to change the ota_url in this file 
 #
 ota_url=http://luis-builds.de/downloads/lineageos/rr/Xiaomi_Redmi_4X_(santoni)/ota.php
-release_type=Luis
+release_type=Stable
 device_name=ro.rr.device
  
 #
