@@ -32,7 +32,7 @@ device_name=oneplus3
 # Version format:
 #
 # uname -r will only be needed if using the app for kernels, not required here
-version_source=oneplus3
+version_source=ro.rr.version
 version_delimiter=-
 version_position=3
 version_format=yyyyMMdd
