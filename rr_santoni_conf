@@ -33,7 +33,7 @@ device_name=santoni
 #
 # uname -r will only be needed if using the app for kernels, not required here
 
-version_source=santoni
+version_source=ro.rr.version
 version_delimiter=-
 version_position=3
 version_format=yyyyMMdd
