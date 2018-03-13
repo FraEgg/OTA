@@ -8,7 +8,7 @@
 #
 ota_url=http://luis-builds.de/downloads/lineageos/rr/Xiaomi_Redmi_4X_(santoni)/ota_luis_oreo.php
 release_type=Stable
-device_name=ro.rr.device
+device_name=santoni
  
 #
 # VERSION
@@ -33,7 +33,7 @@ device_name=ro.rr.device
 #
 # uname -r will only be needed if using the app for kernels, not required here
 
-version_source=ro.modversion
+version_source=santoni
 version_delimiter=-
 version_position=3
 version_format=yyyyMMdd
