@@ -8,7 +8,7 @@
 #
 ota_url=http://luis-builds.de/downloads/lineageos/rr/oneplus3/ota_luis_oreo.php
 release_type=Stable
-device_name=oneplus3
+device_name=ro.rr.device
  
 #
 # VERSION
