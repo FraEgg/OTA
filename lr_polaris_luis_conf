@@ -6,9 +6,9 @@
 # * You can define any tags that end with 'Url'. These tags will be added in the UI automatically
 # * Chances are you only need to change the ota_url in this file 
 #
-ota_url=http://luis-builds.de/downloads/lineageos/rr/Samsung_Galaxy_Tab_S3_(gts3llte)/ota_luis_oreo.php
+ota_url=http://luis-builds.de/downloads/android/LiquidRemix/Xiaomi_Mi_Mix_S2_(polaris)/ota_luis_pie.php
 release_type=Stable
-device_name=ro.rr.device
+device_name=polaris
  
 #
 # VERSION
@@ -32,8 +32,7 @@ device_name=ro.rr.device
 # Version format:
 #
 # uname -r will only be needed if using the app for kernels, not required here
-
-version_source=ro.rr.version
+version_source=polaris
 version_delimiter=-
 version_position=3
 version_format=yyyyMMdd
